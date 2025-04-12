@@ -8,7 +8,7 @@ from telegram.ext import (
     filters
 )
 
-TOKEN = "7715221883:AAGRV-oA9A50Bye2nQz8fGeYKYwOlRw0Zac"
+TOKEN = "7715221883:AAG1a5rN34GXjMvz-FPUolARsYCf_mLwsCA"
 ADMIN_ID = 8122476596
 
 # پیام شروع و دکمه‌ها
